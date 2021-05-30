@@ -1,0 +1,2 @@
+# AFIFO
+Asynchronous FIFO implementation
